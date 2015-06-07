@@ -1,0 +1,12 @@
+{
+  "name": "ikea-stock-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenn Kaplan <me@jkap.io>",
+  "license": "MIT",
+  "repository": "jkap/ikea-stock-checker"
+}
