@@ -2,7 +2,7 @@
 
 To use:
 
-```
+```javascript
 var stockChecker = require('ikea-stock-checker');
 
 stockChecker.forProduct('productId', 'storeId', function (err, result) {
