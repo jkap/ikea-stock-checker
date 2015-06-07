@@ -8,5 +8,10 @@
   },
   "author": "Jenn Kaplan <me@jkap.io>",
   "license": "MIT",
-  "repository": "jkap/ikea-stock-checker"
+  "repository": "jkap/ikea-stock-checker",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "request": "^2.57.0",
+    "xml2js": "^0.4.9"
+  }
 }
